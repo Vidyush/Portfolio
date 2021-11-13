@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Vidyush Bakshi",
+    "occupation": "Developer and Analyst",
+    "description": "Always looking forward...",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Vidyush! I am a Software Engineer currently working as a Software Engineer at Big Binary remotely. With more than 3 years of experience in the field of analytics and development, I have fulfilled the needs of my clients from different domains well in time. I have worked with clients from different domains like Education, Healthcare and Ecommerce. With a proven Social Analytics record with my clients, I am well versed with social analytics tools, scripting, story telling and dashboarding as well.",
+    "contactmessage": "Get in touch with me!!",
+    "email": "vidushbakshi96@gmail.com",
+    "phone": "+91 8057588936",
+    "address": {
+      "street": "New Delhi",
+      "city": "India",
+      "state": "New Delhi",
+      "zip": "110043"
+    },
+    "website": "",
+    "resumedownload": "https://www.linkedin.com/in/vidyushbakshi",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vidyushbakshi",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/vidyushbakshi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vidyush",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "AKTU",
+        "degree": "BTech, Computer Science",
+        "graduated": "July 2018",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Big Binary",
+        "title": "Software Engineer",
+        "years": "March 2021 - Present"
+      },
+      {
+        "company": "Unyscape",
+        "title": "Data Analyst",
+        "years": "Jan 2020 - March 2021"
+      },
+      {
+        "company": "Netprophets Cyberworks",
+        "title": "Data Analyst",
+        "years": "June 2018 - Jan 2020"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "65%"
+      },
+      {
+        "name": "R",
+        "level": "60%"
+      },
+      {
+        "name": "RoR",
+        "level": "40%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      },
+      {
+        "name": "Analytics and Dashboarding",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Price Comparitor (Python)",
+        "category": "Ecommerce",
+        "image": "project1.jpg"
+      },
+      {
+        "title": "Better (Python and Google Data Studio)",
+        "category": "Scrapper",
+        "image": "project2.jpg"
+      },
+      {
+        "title": "Buzzabl (Node JS and R)",
+        "category": "Analytics",
+        "image": "project3.jpg"
+      }
+      ,
+      {
+        "title": "Uber Clone (React Native)",
+        "category": "Travel",
+        "image": "project4.jpg",
+        "url": "https://uber-clone-eta.vercel.app/login"
+      }
+    ]
+  }
+}
